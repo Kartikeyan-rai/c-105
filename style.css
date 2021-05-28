@@ -1,0 +1,11 @@
+.heading{width: 80%;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+body{background-color: aqua;
+   color:white;
+}
+.name_of_objects{color:yellow;}
+#camera{border: 2px dashed;
+width: 400px;
+height: 300px;}
